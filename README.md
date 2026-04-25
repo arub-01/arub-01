@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aruba 
 
-<!--
-**arub-01/arub-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full-Stack Developer (MERN) | Data Analytics  
+ Passionate about building scalable web applications  
+ Skilled in SQL & Excel  
 
-Here are some ideas to get you started:
+                      ----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Data Analytics: SQL, Excel ,PowerBi, Tableau, Python
+- Tools: Postman 
+
+                        ----------
+
+## Currently Learning
+- Advanced React  
+- Backend optimization  
+
+                         ----------
+
+##  Goals
+- Build impactful real-world projects  
+- Contribute to open source  
+
+
+                          -----------
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/aruba-bashir
